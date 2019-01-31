@@ -36,21 +36,21 @@ There are multiple uses of Digital Twin across the value chain for enterprises:
 
 Let us look at some of the commercial and FOSS (free, open source) offerings.
 
-### Basic Maths
+### GE Predix
 
-If you are interested in the basic maths behind quantum computing, check it out here:
-
-<p align="center">
-  <a href=https://www.slideshare.net/secret/Fxp6COhuhGAKF>
-    <img src="images/Basic%20Maths.png" height="200" width="300"></img>
-  </a>
-</p>
+GE has a digital platform called Predix.  It's [Asset](https://www.predix.io/resources/tutorials/tutorial-details.html?tutorial_id=1736&tag=1715&journey=Exploring%20Asset%20service&resources=1710,1736,1711,1951,2456) service allows modelling an asset to it's digital twin counterpart.  Also check out this compelling [vidoe](https://youtu.be/2dCz3oL2rTw).
 
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
-## Use Cases
+### Bosch
 
-<img src="images/Usecases%20genesis.jpg"></img>
+Bosch's IoT Suite enables applications to manage digital twins of their IoT device assets in a simple, convenient, robust, and secure way. Applications can store and update the data, properties, and relationships of assets and all relevant changes are notified.  It is marketed as "Bosch IoT Things".  Check it out [here](https://www.bosch-iot-suite.com/things/).
+
+[<img src="images/top.png" height="24" width="24"></img>](#intro)
+
+### Bosch
+
+Bosch's IoT Suite enables applications to manage digital twins of their IoT device assets in a simple, convenient, robust, and secure way. Applications can store and update the data, properties, and relationships of assets and all relevant changes are notified.  It is marketed as "Bosch IoT Things".  Check it out [here](https://www.bosch-iot-suite.com/things/).
 
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
