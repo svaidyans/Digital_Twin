@@ -81,7 +81,7 @@ The Eclipse Foundation is a not-for-profit organization with world-class profess
 
 ## Eclipse Ditto implementation
 <p align="center">
-  <img src="images/Ditto.png" width="480" height="160"></img>
+  <img src="images/Ditto.png" width="480" height="320"></img>
 </p>
 
 Users interact with a quantum processor through the Quantum Circuit model of computation, applying Quantum Gate on the Qubits using a GUI called the Quantum Composer, writing Quantum Assembly Language (QASM) code or through a high level programming level like Python accessing IBM QX via API by using [QISKit](https://developer.ibm.com/code/open/projects/qiskit/).
