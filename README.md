@@ -81,7 +81,7 @@ The Eclipse Foundation is a not-for-profit organization with world-class profess
 
 ## Eclipse Ditto implementation
 <p align="center">
-  <img src="images/Ditto.png" width="480" height="480"></img>
+  <img src="images/Ditto.png" width="480" height="400"></img>
 </p>
 
 Ditto domain model for "Things" of IoT is very generic and a structure has two elements:
