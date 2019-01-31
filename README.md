@@ -38,7 +38,7 @@ Let us look at some of the commercial and FOSS (free, open source) offerings.
 
 ### GE Predix
 
-GE has a digital platform called Predix.  It's [Asset](https://www.predix.io/resources/tutorials/tutorial-details.html?tutorial_id=1736&tag=1715&journey=Exploring%20Asset%20service&resources=1710,1736,1711,1951,2456) service allows modelling an asset to it's digital twin counterpart.  Also check out this compelling [vidoe](https://youtu.be/2dCz3oL2rTw).
+GE has a digital platform called Predix.  It's [Asset](https://www.predix.io/resources/tutorials/tutorial-details.html?tutorial_id=1736&tag=1715&journey=Exploring%20Asset%20service&resources=1710,1736,1711,1951,2456) service allows modelling an asset to it's digital twin counterpart.  Also check out this compelling [video](https://youtu.be/2dCz3oL2rTw).
 
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
