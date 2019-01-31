@@ -137,7 +137,7 @@ Ditto persists Things as JSON and all of the APIs are also JSON based.  In API v
 In API version 2 the information which subjects are allowed to READ, WRITE Things are managed separately via Policies.
 The Thing only contains a policyId which links to a Policy containing the authorization information. This class diagram shows the structure Ditto requires for API version 2:
 <p align="center">
-  <img src="images/ditto-api-2.png" height="180px" width="480px"></img>
+  <img src="images/ditto-api-2.png" height="120px" width="360px"></img>
 </p>  
 
 A minimalist JSON with one attribute and one feature is:
