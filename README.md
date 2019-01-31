@@ -171,7 +171,7 @@ Another great practice project to try out is the Rest-API to WebSocket connectio
 A short video on the implementations of the first example and the REST to WS is here:
 
 <p align="center">
-  <a href="https://youtu.be/c47eI3ZcE2Q">
+  <a href="https://youtu.be/bk6Bsx_yAak">
     <img src="images/Video.jpg" width="400" height="200"></img>
   </a>
 </p>
