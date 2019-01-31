@@ -105,7 +105,11 @@ and for developing Web-based user interfaces.
   - event-driven Web applications,
   - full duplex communication scenarios, etc.
   
+The REST-like HTTP API have been implemented as two versions: **API Version 1** and **API Version 2**.  In API Version 1, the information which subjects are allowed to READ, WRITE, ADMINISTRATE Things is inlined in the Things itself. This class diagram shows the structure Ditto requires for API version 1:
 
+<p align="center">
+  <img src="images/Ditto-API-1.png" height="120px" width="200px"></img>
+</p>  
 
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
