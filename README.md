@@ -111,6 +111,31 @@ The REST-like HTTP API have been implemented as two versions: **API Version 1** 
   <img src="images/ditto-api-1.png" height="240px" width="480px"></img>
 </p>  
 
+Ditto persists Things as JSON and all of the APIs are also JSON based.  In API version 1 the most minimalistic representation of a Thing is for example the following (attributes and features are optional - here a minimalist Thing with one attribute and one feature is shown):
+
+```
+{
+  "thingId": "the.namespace:the-thing-id",
+  "acl": {
+    "subject-id": {
+      "READ": true,
+      "WRITE": true,
+      "ADMINISTRATE": true
+    }
+  },
+  "attributes": {
+    "location": "Kitchen"
+  },
+  "features": {
+    "transmission": {
+       "properties": {
+         "cur_speed": 90
+       }
+     }
+  }
+}
+```
+
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
 ## Video
