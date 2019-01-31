@@ -172,7 +172,7 @@ A short video on the implementations of the first example and the REST to WS is 
 
 <p align="center">
   <a href="https://youtu.be/bk6Bsx_yAak">
-    <img src="images/Video.jpg" width="400" height="200"></img>
+    <img src="images/Video Thumbnail.png" width="400" height="200"></img>
   </a>
 </p>
 
