@@ -15,87 +15,15 @@ Digital Twin is the virtual model of a physical product or even a process.
     <th><a href="#video">Video</a></th>
     <th><a href="#contact">Contact</a></th>
   </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;➤ <a href="#problem-set-classification">Problem set classification</a></td>
-    <td> </td>
-    <td>&nbsp;&nbsp;&nbsp;➤ <a href="#grovers-algorithm">Grover's Algorithm</a></td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;➤ <a href="#basic-maths">Basic Maths</a></td>
-    <td> </td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation">Implementation</a></td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  
-  <tr>
-    <td> </td>
-    <td> </td>
-    <td>&nbsp;&nbsp;&nbsp;➤ <a href="#shors-algorithm">Shor's Algorithm</a></td></td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  
-  <tr>
-    <td> </td>
-    <td> </td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation---specific-factorization">Implementation - specific factorization</a></td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  
-  <tr>
-    <td> </td>
-    <td> </td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation---generalized">Implementation - generalized</a></td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  
-  <tr>
-    <td> </td>
-    <td> </td>  
-    <td>&nbsp;&nbsp;&nbsp;➤ <a href="#molecule-simulation">Molecule Simulation</a></td></td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  
-  <tr>
-    <td> </td>
-    <td> </td>
-    <td>&nbsp;&nbsp;&nbsp;➤ <a href="#other-algorithms">Other Algorithms</a></td></td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  
+    
 </table>
 
-## About Quantum Computing
+## About Digital Twin
+
+A Digital Twin is a virtual representation of a process, product or service. This pairing of the virtual and physical worlds allows analysis of data and monitoring of systems to head off problems before they even occur, prevent downtime, develop new opportunities and even plan for the future by using simulations.
 
 <p align="center">
-  <img src="images/QC.jpg" height="100" width="200"></img>
-</p>
-
-We have all heard the buzz around Quantum Computers.  Today’s smartphones have the computing power of a military computer from 50 years ago that was the size of an entire room. However, even with the phenomenal strides we have made in technology and classical computers since the onset of the computer revolution, there remain problems that classical computers just can’t solve.  Even though a classical computer helps us do many amazing things, “under the hood” it’s really just a calculator that uses a sequence of bits—values of 0 and 1 to represent two states (think on and off switch) to makes sense of and decisions about the data we input following a prearranged set of instructions. 
-
-When you enter the world of atomic and subatomic particles, things begin to behave in unexpected ways. In fact, these particles can exist in more than one state at a time. It’s this ability that Quantum Computers take advantage of.  Instead of bits, which conventional computers use, a Quantum Computer uses Quantum bits—known as Qubits. To illustrate the difference, imagine a sphere. A bit can be at either of the two poles of the sphere, but a Qubit can exist at any point on the sphere (called "Superposition"). So, this means that a computer using Qubits can store an enormous amount of information and uses less energy doing so than a classical computer. Another interesting aspect is called "Quantum Entanglement".  It is a physical phenomenon which occurs when pairs or groups of particles are generated, interact, or share spatial proximity in ways such that the quantum state of each particle cannot be described independently of the state of the other(s), even when the particles are separated by a large distance—instead, a quantum state must be described for the system as a whole.  Measurements of physical properties such as position, momentum, spin, and polarization, performed on entangled particles are found to be correlated. 
-
-<p align="center">
-  <img src="images/Bloch Sphere.jpg" height="250" width="300"></img>
-</p>
-
-By entering into this Quantum area of computing where the traditional laws of Physics no longer apply, we will be able to create Quantum Processors that are significantly faster (a million or more times) than the ones we use today. it will be game-changing for every industry and will have a huge impact in the way we do business, invent new medicine and materials, safeguard our data, explore space, and predict weather events and climate change. It’s no coincidence that some of the world’s most influential companies such as IBM and Google and the world’s governments are investing in Quantum Computing technology. They are expecting Quantum Computing to change our world because it will allow us to solve problems and experience efficiencies that aren’t possible today.
-
-Check out this excellent introductory YoutTube video:
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=JhHMJCUmq28">
-    <img src="images/YouTube.jpg" width="320" height="200"></img>
-  </a>
+  <img src="images/What%20is%20a%20Digital%20Twin.jpg" width="100%"></img>
 </p>
 
 ### Problem set classification
