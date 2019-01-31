@@ -9,11 +9,11 @@ Digital Twin is the virtual model of a physical product or even a process.
 <table>
   
   <tr>
-    <th><a href="#about-digital-twin">About Digital Twin</a></th>
-    <th><a href="#industry-offerings">Industry Offerings</a></th>
+    <th><a href="#about-digital-twin">   About Digital Twin   </a></th>
+    <th><a href="#industry-offerings">   Industry Offerings   </a></th>
     <th><a href="#implementation-of-eclipse-ditto">Implementation of Eclipse Ditto</a></th>
-    <th><a href="#video">Video</a></th>
-    <th><a href="#contact">Contact</a></th>
+    <th><a href="#video">   Video   </a></th>
+    <th><a href="#contact">   Contact   </a></th>
   </tr>
     
 </table>
