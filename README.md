@@ -34,6 +34,8 @@ There are multiple uses of Digital Twin across the value chain for enterprises:
   <img src="images/Digital%20Twin%20Value%20Chain.png" width="100%"></img>
 </p>
 
+Let us look at some of the commercial and FOSS (free, open source) offerings in the Digital Twin space.
+
 ### Basic Maths
 
 If you are interested in the basic maths behind quantum computing, check it out here:
