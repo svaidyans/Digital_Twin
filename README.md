@@ -23,7 +23,7 @@ Digital Twin is the virtual model of a physical product or even a process.
 A Digital Twin is a virtual representation of a process, product or service. This pairing of the virtual and physical worlds allows analysis of data and monitoring of systems to head off problems before they even occur, prevent downtime, develop new opportunities and even plan for the future by using simulations.
 
 <p align="center">
-  <img src="images/What%20is%20a%20Digital%20Twin.jpg" width="100%"></img>
+  <img src="images/What%20is%20a%20Digital%20Twin.png" width="100%"></img>
 </p>
 
 ### Problem set classification
