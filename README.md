@@ -88,6 +88,25 @@ Ditto domain model for "Things" of IoT is very generic and a structure has two e
 - Attributes: intended for managing static meta data of a Thing - as JSON object - which does not change frequently.
 - Features: intended for managing state data (e.g. sensor data or configuration data) of a Thing.
 
+Ditto provides two ways to interact with:
+
+- a REST-like HTTP API with a sophisticated resource layout that allows to create, read, update and delete Things and the Thing’s data.
+- a JSON-based WebSocket API implementing the Ditto Protocol.
+
+The two ways are almost equally powerful and allow the same operations to work with the Thing’s data, send messages to Things and receive messages from Things.
+
+- the lightweight REST-like HTTP API can be used
+  - on less powerful devices lacking a Java runtime or supporting other (scripting) languages like JavaScript, Python, C/C++,
+and for developing Web-based user interfaces.
+
+- the WebSocket API proves useful for
+  - gathering data streams from devices or massive data from another message broker,
+  - real-time device monitoring,
+  - event-driven Web applications,
+  - full duplex communication scenarios, etc.
+  
+
+
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
 ## Video
