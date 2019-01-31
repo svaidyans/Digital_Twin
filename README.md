@@ -161,6 +161,8 @@ Architecturally a Ditto application looks like this:
   <img src="images/ditto-hld.png" width="600px" height="400px"></img>
 </p>
 
+Now, let us hit the road!  [Ditto GitHub](https://github.com/eclipse/ditto) has excellent documentation.  Once the Ditto stack has been setup, try out this [first example](First%20Example.html) of creating and playing around with a Thing.
+
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
 ## Video
