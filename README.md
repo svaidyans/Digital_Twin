@@ -161,12 +161,14 @@ Architecturally a Ditto application looks like this:
   <img src="images/ditto-hld.png" width="600px" height="400px"></img>
 </p>
 
-Now, let us hit the road!  [Ditto GitHub](https://github.com/eclipse/ditto) has excellent documentation.  Once the Ditto stack has been setup, try out this [first example](First%20Example.md) of creating and playing around with a Thing.
+Now, let us hit the road!  [Ditto GitHub](https://github.com/eclipse/ditto) has documentation on installation steps.  Once the Ditto stack has been setup, try out this [first example](First%20Example.md) of creating and playing around with a Thing.
+
+Another great practice project to try out is the Rest-API to WebSocket connection based messaging.  This and other examples are all documented at the [Ditto Examples repo](https://github.com/eclipse/ditto-examples).
 
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
 ## Video
-A short video on the implementations:
+A short video on the implementations of the first example and the REST to WS is here:
 
 <p align="center">
   <a href="https://youtu.be/c47eI3ZcE2Q">
