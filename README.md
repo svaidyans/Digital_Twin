@@ -1,4 +1,4 @@
-<img src="images/Digital%20Twin%20Header.png" width="100%"></img>
+<img src="images/Digital%20Twin%20Header.png" width="100%" heigth="25%"></img>
 
 ## Intro
 
