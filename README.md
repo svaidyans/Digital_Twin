@@ -26,12 +26,12 @@ A Digital Twin is a virtual representation of a process, product or service. Thi
   <img src="images/What%20is%20a%20Digital%20Twin.png" width="100%"></img>
 </p>
 
-### Problem set classification
+## Industry Offerings
 
-Quantum Computers are not intended to replace classical computers, they are expected to be a different tool we will use to solve complex problems that are beyond the capabilities of a classical computer:
+There are multiple uses of Digital Twin across the value chain for enterprises:
 
 <p align="center">
-  <img src="images/P-NP%20problem%20set.png" height="200" width="400"></img>
+  <img src="images/Digital%20Twin%20Value%Chain.png" width="100%"></img>
 </p>
 
 ### Basic Maths
