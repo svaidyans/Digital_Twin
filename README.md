@@ -3,15 +3,15 @@
 ## Intro
 
 <p align="justify">
-  Quantum Computing is the next holy grail of Computer Science and Engineering.  Here we look at its background and   implementation of few Quantum Algorithms.
+Digital Twin is the virtual model of a physical product or even a process.
 </p>
 
 <table>
   
   <tr>
-    <th><a href="#about-quantum-computing">About Quantum Computing</a></th>
-    <th><a href="#use-cases">Use Cases</a></th>
-    <th><a href="#implementation-of-few-quantum-algorithms">Implementation of few Quantum algorithms</a></th>
+    <th><a href="#about-digital-twin">About Digital Twin</a></th>
+    <th><a href="#industry-offering">Industry Offerings</a></th>
+    <th><a href="#implementation-of-eclipse-ditto">Implementation of Eclipse Ditto</a></th>
     <th><a href="#video">Video</a></th>
     <th><a href="#contact">Contact</a></th>
   </tr>
