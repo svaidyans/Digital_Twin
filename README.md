@@ -160,7 +160,7 @@ A minimalist JSON with one attribute and one feature is:
 
 The components of a Ditto services include the following:
 <p align="center">
-  <img src="images/ditto-arch.png" width="240px" height="400px"></img>
+  <img src="images/ditto-arch.png" width="320px" height="400px"></img>
 </p>
 
 The components have the following tasks:
