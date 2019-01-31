@@ -48,9 +48,33 @@ Bosch's IoT Suite enables applications to manage digital twins of their IoT devi
 
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
-### Bosch
+### Siemens
 
-Bosch's IoT Suite enables applications to manage digital twins of their IoT device assets in a simple, convenient, robust, and secure way. Applications can store and update the data, properties, and relationships of assets and all relevant changes are notified.  It is marketed as "Bosch IoT Things".  Check it out [here](https://www.bosch-iot-suite.com/things/).
+Siemens claims its PLM Suite covers all the hardware, software and electronic domains a digital twin needs.  Their suite covers  product simulations, plant simulations, manufacturing process simulations and maintenance simulations.  Check it out [here](https://community.plm.automation.siemens.com/t5/Digital-Twin-Knowledge-Base/Why-Siemens-digital-twin-capabilities-are-the-best-in-the-market/ta-p/432989).
+
+[<img src="images/top.png" height="24" width="24"></img>](#intro)
+
+### Dassault
+
+Dassault Systèmes has a complete digital platform branded as [3DExperience](https://www.3ds.com/about-3ds/3dexperience-platform/).  Interestingly they have built a virtual replica of Singapore with [3DExperienCity](https://ifwe.3ds.com/natural-resources/3dexperiencityr).
+
+[<img src="images/top.png" height="24" width="24"></img>](#intro)
+
+### Microsoft
+
+Microsoft Azure IoT has the concept of a [device twin](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-device-twins) that is part of their device management solution. A device twin is automatically created when a device is connected to the MS IoT Hub. The device twin is a JSON file the stores the device state information that can be used synchronize device information with back-end processes.
+
+[<img src="images/top.png" height="24" width="24"></img>](#intro)
+
+### Amazon
+
+Amazon refers to a [AWS IoT Device Shadow](https://docs.aws.amazon.com/iot/latest/developerguide/iot-device-shadows.html) as their version of a digital twin. A device shadow is a JSON file that contains the state information, meta-data, timestamp, unique client token and version of a device connected to the device shadow service. There are 3 basic REST APIs that can be used to interact with the device shadow: GET, UPDATE, DELETE. You can also interact with device shadows using MQTT messages.
+
+[<img src="images/top.png" height="24" width="24"></img>](#intro)
+
+### IBM
+
+IBM has been one of the pioneers in the Digital twin space.  As part of the [Watson IoT platform](https://console.bluemix.net/docs/services/IoT/GA_information_management/ga_im_device_twin.html#device_twins) they have a [Device Twin](https://console.bluemix.net/docs/services/IoT/GA_information_management/ga_im_device_twin.html#device-twins) and an [Asset Twin](https://console.bluemix.net/docs/services/IoT/GA_information_management/ga_im_device_twin.html#asset-twins-things-).
 
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
