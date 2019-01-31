@@ -156,6 +156,10 @@ The components have the following tasks:
 - Connectivity: sends Ditto Protocol messages to external message brokers and receives messages from them. 
 Supported transport protocols are AMQP 1.0 (e.g. Eclipse Hono), AMQP 0.9.1 (e.g. RabbitMQ) or MQTT 3.1.1 (e.g. Eclipse Mosquitto).
 
+Architecturally a Ditto application looks like this:
+<p align="center">
+  <img src="images/ditto-hld.png" width="480px" height="400px"></img>
+</p>
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
 ## Video
