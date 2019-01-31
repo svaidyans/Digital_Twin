@@ -158,7 +158,7 @@ Supported transport protocols are AMQP 1.0 (e.g. Eclipse Hono), AMQP 0.9.1 (e.g.
 
 Architecturally a Ditto application looks like this:
 <p align="center">
-  <img src="images/ditto-hld.png" width="600px" height="480px"></img>
+  <img src="images/ditto-hld.png" width="600px" height="400px"></img>
 </p>
 
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
