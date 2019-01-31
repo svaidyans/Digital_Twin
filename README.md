@@ -31,7 +31,7 @@ A Digital Twin is a virtual representation of a process, product or service. Thi
 There are multiple uses of Digital Twin across the value chain for enterprises:
 
 <p align="center">
-  <img src="images/Digital%20Twin%20Value%Chain.png" width="100%"></img>
+  <img src="images/Digital%20Twin%20Value%20Chain.png" width="100%"></img>
 </p>
 
 ### Basic Maths
