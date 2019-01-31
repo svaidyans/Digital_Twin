@@ -158,6 +158,21 @@ A minimalist JSON with one attribute and one feature is:
 }
 ```
 
+The components of a Ditto services include the following:
+<p align="center">
+  <img src="images/ditto-arch.png" width="240px" height="480px"></img>
+</p>
+
+The components have the following tasks:
+
+- Policies: persistence of Policies
+- Things: persistence of Things and Features
+- Things-Search: tracking changes to Things, Features, Policies and updating an optimized search index + executes queries on this search index
+- Concierge: orchestrates and authorizes the backing persistence services
+- Gateway: provides HTTP and WebSocket API
+- Connectivity: sends Ditto Protocol messages to external message brokers and receives messages from them. 
+Supported transport protocols are AMQP 1.0 (e.g. Eclipse Hono), AMQP 0.9.1 (e.g. RabbitMQ) or MQTT 3.1.1 (e.g. Eclipse Mosquitto).
+
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
 ## Video
