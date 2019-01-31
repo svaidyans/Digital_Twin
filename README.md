@@ -106,13 +106,11 @@ and for developing Web-based user interfaces.
   - full duplex communication scenarios, etc.
   
 The REST-like HTTP API have been implemented as two versions: **API Version 1** and **API Version 2**.  In API Version 1, the information which subjects are allowed to READ, WRITE, ADMINISTRATE Things is inlined in the Things itself. This class diagram shows the structure Ditto requires for API version 1:
-
 <p align="center">
   <img src="images/ditto-api-1.png" height="240px" width="480px"></img>
 </p>  
 
 Ditto persists Things as JSON and all of the APIs are also JSON based.  In API version 1 the most minimalistic representation of a Thing is for example the following (attributes and features are optional - here a minimalist Thing with one attribute and one feature is shown):
-
 ```
 {
   "thingId": "the.namespace:the-thing-id",
@@ -123,6 +121,30 @@ Ditto persists Things as JSON and all of the APIs are also JSON based.  In API v
       "ADMINISTRATE": true
     }
   },
+  "attributes": {
+    "location": "Kitchen"
+  },
+  "features": {
+    "transmission": {
+       "properties": {
+         "cur_speed": 90
+       }
+     }
+  }
+}
+```
+
+In API version 2 the information which subjects are allowed to READ, WRITE Things are managed separately via Policies.
+The Thing only contains a policyId which links to a Policy containing the authorization information. This class diagram shows the structure Ditto requires for API version 2:
+<p align="center">
+  <img src="images/ditto-api-2.png" height="240px" width="480px"></img>
+</p>  
+
+A minimalist JSON with one attribute and one feature is:
+```
+{
+  "thingId": "the.namespace:the-thing-id",
+  "policyId": "the.namespace:the-policy-id",
   "attributes": {
     "location": "Kitchen"
   },
